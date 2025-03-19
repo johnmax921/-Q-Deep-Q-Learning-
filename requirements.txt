@@ -1,0 +1,10 @@
+yfinance>=0.2.12
+pandas>=1.3.0
+numpy>=1.20.0
+matplotlib>=3.4.0
+tensorflow>=2.8.0
+tf-agents>=0.12.0
+ta>=0.10.0
+tqdm>=4.62.0
+reverb>=0.10.0
+scipy>=1.8.0
